@@ -2,11 +2,11 @@ Thekho Ngaosathe
 
 ## Developer & Designer
 
-Github: [https://github.com/ThekhoN](https://github.com/ThekhoN)
+Github: [https://github.com/ThekhoN](https://github.com/ThekhoN)<br/>
 Email: bennetonss@hotmail.com
 
 
- **Objective:**
+ ### Objective
 
  ---------------------
 >I strive to create delightful products that are not only visually appealing but are also highly functional and effectively solve defined challenges and problems.
@@ -32,40 +32,53 @@ Email: bennetonss@hotmail.com
 ### Experience
 ------------------------------
 **2009, TV Today Aaj Tak, Delhi**
-Graphic Design Intern
-Actively involved in designing the weather map
-Preparing various media-ready graphics
+<br/>
+>Graphic Design Intern<br/>
+
+Actively involved in designing the weather map<br/>
+Preparing various media-ready graphics<br/>
 
 **2010-2011, People Tree, Delhi**
-Graphic Artist
-creating original designs and artwork
-painting
+<br/>
+>Graphic Artist<br/>
+
+creating original designs and artwork<br/>
+painting<br/>
 
 **2011-2012,
 Yebhi.com, Delhi**
-Graphic Designer
-Banner design
-logo design
-product enhancement
-editing and retouching
+<br/>
+>Graphic Designer<br/>
+
+Banner design<br/>
+logo design<br/>
+product enhancement<br/>
+editing and retouching<br/>
 
 **Room to Read Project, Delhi**
-Lead Graphic Designer
-creation of original graphic study aids,
-designing the structure, layout and supervising the print
+<br/>
+>Lead Graphic Designer<br/>
+
+creation of original graphic study aids<br/>
+designing the structure, layout and supervising the print<br/>
 
 **2012-2013, Freelance**
-Graphic Design Projects
-designing logos, letterheads, banners, wedding cards and other stationery
+<br/>
+>Graphic Design Projects<br/>
+
+designing logos, letterheads, banners, wedding cards and other stationery<br/>
 
 **2013-2015, Snapdeal, Delhi**
-Web & Graphic Designer
+<br/>
+>Web & Graphic Designer<br/>
 
 **2015-2017, Snapdeal, Delhi**
-Senior Web Developer & Designer
-creating delightful user experiences through intuitive, functional, responsive(device-agnostic), accessible and performant user interfaces, following best UI/UX practices.
-design & development of brand, offer & deal HTML pages - mobile responsive, modular and reusable templates & components.
-creating style guides, logos, newsletter emailers, forms, blogs, infographics, banners
+<br/>
+>Senior Web Developer & Designer<br/>
+
+creating delightful user experiences through intuitive, functional, responsive(device-agnostic), accessible and performant user interfaces, following best UI/UX practices<br/>
+design & development of brand, offer & deal HTML pages - mobile responsive, modular and reusable templates & components<br/>
+creating style guides, logos, newsletter emailers, forms, blogs, infographics, banners<br/>
 
 ### Interests
 ------------------------------
