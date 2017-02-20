@@ -2,12 +2,11 @@ Thekho Ngaosathe
 
 ## Developer & Designer
 
-Github: [https://github.com/ThekhoN](https://github.com/ThekhoN)
-
+Github: [https://github.com/ThekhoN](https://github.com/ThekhoN)<br/>
 Email: bennetonss@hotmail.com
 
 
- **Objective:**
+ ### Objective
 
  ---------------------
 >I strive to create delightful products that are not only visually appealing but are also highly functional and effectively solve defined challenges and problems.
@@ -33,14 +32,15 @@ Email: bennetonss@hotmail.com
 ### Experience
 ------------------------------
 **2009, TV Today Aaj Tak, Delhi**
-Graphic Design Intern
-Actively involved in designing the weather map
-Preparing various media-ready graphics
+
+>Graphic Design Intern<br/>
+Actively involved in designing the weather map<br/>
+Preparing various media-ready graphics<br/>
 
 **2010-2011, People Tree, Delhi**
-Graphic Artist
-creating original designs and artwork
-painting
+>Graphic Artist<br/>
+creating original designs and artwork<br/>
+painting<br/>
 
 **2011-2012,
 Yebhi.com, Delhi**
