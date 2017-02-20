@@ -39,43 +39,30 @@ Actively involved in designing the weather map<br/>
 Preparing various media-ready graphics<br/>
 
 **2010-2011, People Tree, Delhi**
-<<<<<<< HEAD
 <br/>
 >Graphic Artist<br/>
 
-=======
-Graphic Artist<br/>
->>>>>>> refs/remotes/origin/master
 creating original designs and artwork<br/>
 painting<br/>
 
 **2011-2012,
 Yebhi.com, Delhi**
-<<<<<<< HEAD
 <br/>
 >Graphic Designer<br/>
 
-=======
-Graphic Designer<br/>
->>>>>>> refs/remotes/origin/master
 Banner design<br/>
 logo design<br/>
 product enhancement<br/>
 editing and retouching<br/>
 
 **Room to Read Project, Delhi**
-<<<<<<< HEAD
 <br/>
 >Lead Graphic Designer<br/>
 
-=======
-Lead Graphic Designer<br/>
->>>>>>> refs/remotes/origin/master
 creation of original graphic study aids<br/>
 designing the structure, layout and supervising the print<br/>
 
 **2012-2013, Freelance**
-<<<<<<< HEAD
 <br/>
 >Graphic Design Projects<br/>
 
@@ -89,16 +76,6 @@ designing logos, letterheads, banners, wedding cards and other stationery<br/>
 <br/>
 >Senior Web Developer & Designer<br/>
 
-=======
-Graphic Design Projects<br/>
-designing logos, letterheads, banners, wedding cards and other stationery<br/>
-
-**2013-2015, Snapdeal, Delhi**
-Web & Graphic Designer<br/>
-
-**2015-2017, Snapdeal, Delhi**
-Senior Web Developer & Designer<br/>
->>>>>>> refs/remotes/origin/master
 creating delightful user experiences through intuitive, functional, responsive(device-agnostic), accessible and performant user interfaces, following best UI/UX practices<br/>
 design & development of brand, offer & deal HTML pages - mobile responsive, modular and reusable templates & components<br/>
 creating style guides, logos, newsletter emailers, forms, blogs, infographics, banners<br/>
