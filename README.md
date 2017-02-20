@@ -34,6 +34,7 @@ Email: bennetonss@hotmail.com
 **2009, TV Today Aaj Tak, Delhi**
 
 >Graphic Design Intern<br/>
+>
 Actively involved in designing the weather map<br/>
 Preparing various media-ready graphics<br/>
 
