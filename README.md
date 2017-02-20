@@ -3,8 +3,8 @@ Thekho Ngaosathe
 ## Developer & Designer
 
 Github: [https://github.com/ThekhoN](https://github.com/ThekhoN)<br/>
-Email: bennetonss@hotmail.com<br/>
----------------------
+Email: bennetonss@hotmail.com<br/><br/>
+
 
  ### Objective
 
