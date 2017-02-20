@@ -9,8 +9,8 @@ Email: bennetonss@hotmail.com
  ### Objective
 
  ---------------------
->I strive to create delightful products that are not only visually appealing but are also highly functional and effectively solve defined challenges and problems.
->I hope to be part of a team wherein I can contribute constructively in the most productive manner and thus promote the growth of my team as well as myself.
+* I strive to create delightful products that are not only visually appealing but are also highly functional and effectively solve defined challenges and problems.
+* I hope to be part of a team wherein I can contribute constructively in the most productive manner and thus promote the growth of my team as well as myself.
 
 ### Summary
 
