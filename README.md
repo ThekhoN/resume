@@ -6,7 +6,7 @@ Github: [https://github.com/ThekhoN](https://github.com/ThekhoN)<br/>
 Email: bennetonss@hotmail.com<br/><br/>
 
 
- ### Objective
+### Objective
 
  ---------------------
 * I strive to create delightful products that are not only visually appealing but are also highly functional and effectively solve defined challenges and problems.
@@ -35,7 +35,7 @@ Email: bennetonss@hotmail.com<br/><br/>
 <br/>
 >Graphic Design Intern<br/>
 
-Actively involved in designing the weather map<br/>
+actively involved in designing the weather map<br/>
 Preparing various media-ready graphics<br/>
 
 **2010-2011, People Tree, Delhi**
@@ -50,7 +50,7 @@ Yebhi.com, Delhi**
 <br/>
 >Graphic Designer<br/>
 
-Banner design<br/>
+banner design<br/>
 logo design<br/>
 product enhancement<br/>
 editing and retouching<br/>
